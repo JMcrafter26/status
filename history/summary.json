@@ -58,19 +58,19 @@
     "url": "https://mail.jm26.net",
     "icon": "https://icons.duckduckgo.com/ip3/mail.jm26.net.ico",
     "slug": "mail-jm26-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2345,
-    "timeDay": 2087,
-    "timeWeek": 2345,
-    "timeMonth": 2345,
-    "timeYear": 2345,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 2342,
+    "timeDay": 2208,
+    "timeWeek": 2342,
+    "timeMonth": 2342,
+    "timeYear": 2342,
     "dailyMinutesDown": {
-      "2022-11-24": 0
+      "2022-11-24": 17
     }
   }
 ]
