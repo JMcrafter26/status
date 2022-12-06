@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jm26.net.ico",
     "slug": "jm-26-net",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 809,
-    "timeDay": 729,
-    "timeWeek": 568,
-    "timeMonth": 809,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2022-12-04": 20
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 801,
+    "timeDay": 692,
+    "timeWeek": 578,
+    "timeMonth": 801,
+    "timeYear": 801,
+    "dailyMinutesDown": {}
   },
   {
     "name": "test.jm26.net",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.jm26.net.ico",
     "slug": "test-jm26-net",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1003,
-    "timeDay": 1977,
-    "timeWeek": 928,
-    "timeMonth": 1003,
-    "timeYear": 1003,
-    "dailyMinutesDown": {
-      "2022-12-04": 20
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1142,
+    "timeDay": 2879,
+    "timeWeek": 1245,
+    "timeMonth": 1142,
+    "timeYear": 1142,
+    "dailyMinutesDown": {}
   },
   {
     "name": "go.jm26.net",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.jm26.net.ico",
     "slug": "go-jm26-net",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 819,
-    "timeDay": 1422,
-    "timeWeek": 801,
-    "timeMonth": 819,
-    "timeYear": 819,
-    "dailyMinutesDown": {
-      "2022-12-04": 20
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 836,
+    "timeDay": 1291,
+    "timeWeek": 841,
+    "timeMonth": 836,
+    "timeYear": 836,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.jm26.net",
@@ -65,19 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.jm26.net.ico",
     "slug": "mail-jm26-net",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 2121,
-    "timeDay": 2956,
-    "timeWeek": 1972,
-    "timeMonth": 2121,
-    "timeYear": 2121,
-    "dailyMinutesDown": {
-      "2022-12-04": 20,
-      "2022-11-24": 17
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2135,
+    "timeDay": 2682,
+    "timeWeek": 2020,
+    "timeMonth": 2135,
+    "timeYear": 2135,
+    "dailyMinutesDown": {}
   }
 ]
