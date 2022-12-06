@@ -22,7 +22,7 @@ status-website:
   introTitle: "Check the uptime status of our services"
   introMessage:
   navbar:
-    - title: Status
+    - title: Status of JM26.NET
       href: /
     - title: JM26.NET
       href: https://jm26.net
