@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 748,
-    "timeWeek": 612,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "time": 795,
+    "timeDay": 738,
+    "timeWeek": 636,
+    "timeMonth": 795,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1257,
-    "timeDay": 2074,
-    "timeWeek": 1601,
-    "timeMonth": 1257,
-    "timeYear": 1257,
+    "time": 1292,
+    "timeDay": 2101,
+    "timeWeek": 1753,
+    "timeMonth": 1292,
+    "timeYear": 1292,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.jm26.net.ico",
     "slug": "go-jm26-net",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 883,
-    "timeDay": 851,
-    "timeWeek": 933,
-    "timeMonth": 883,
-    "timeYear": 883,
-    "dailyMinutesDown": {
-      "2022-12-09": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 903,
+    "timeDay": 866,
+    "timeWeek": 997,
+    "timeMonth": 903,
+    "timeYear": 903,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mail.jm26.net",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2258,
-    "timeDay": 2952,
-    "timeWeek": 2297,
-    "timeMonth": 2258,
-    "timeYear": 2258,
+    "time": 2294,
+    "timeDay": 2986,
+    "timeWeek": 2450,
+    "timeMonth": 2294,
+    "timeYear": 2294,
     "dailyMinutesDown": {}
   }
 ]
