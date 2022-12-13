@@ -24,7 +24,7 @@ status-website:
   introMessage:
   navbar:
     - title: Status of JM26.NET
-      href: /
+      href: https://jmcrafter26.github.io/status
     - title: JM26.NET
       href: https://jm26.net
 i18n:
