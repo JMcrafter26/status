@@ -21,6 +21,11 @@
 
 [**Visit our status website →**](https://jmcrafter26.github.io/status)
 
+
+
+
+
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
