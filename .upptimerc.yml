@@ -27,9 +27,8 @@ status-website:
       href: /
     - title: JM26.NET
       href: https://jm26.net
-
-  i18n:
-    footer: The status will refresh once a day
+i18n:
+  footer: This page is [open source]($REPO)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
