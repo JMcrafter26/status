@@ -9,8 +9,8 @@ sites:
     url: https://test.jm26.net
   - name: go.jm26.net
     url: https://go.jm26.net
-  - name: mail.jm26.net
-    url: https://mail.jm26.net
+  - name: files.jm26.net
+    url: https://files.jm26.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
