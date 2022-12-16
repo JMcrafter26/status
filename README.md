@@ -21,8 +21,11 @@
 
 [**Visit our status website →**](https://jmcrafter26.github.io/status)
 
-## 📄 License
+<details><summary>
+ 📄 License
+</summary>
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [John](https://jm26.net)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+</details>
