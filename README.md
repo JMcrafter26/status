@@ -19,7 +19,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://jmcrafter26.github.io/status)
+[**Visit our status website →**](https://status.web1337.net)
 
 <details><summary>
  📄 License
