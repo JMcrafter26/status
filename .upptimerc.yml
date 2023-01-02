@@ -6,7 +6,7 @@ sites:
   - name: JM26.NET
     url: https://jm26.net
   - name: test.jm26.net
-    url: https://test.jm26.net
+    url: https://test.jm26.net/list
   - name: go.jm26.net
     url: https://go.jm26.net
   - name: files.jm26.net
