@@ -29,10 +29,12 @@ status-website:
   introTitle: "Status of our services"
   introMessage:
   navbar:
-    - title: Status of JM26.NET
-      href: https://jmcrafter26.github.io/status
     - title: JM26.NET
       href: https://jm26.net
+    - title: API.JM26.NET
+      href: https://api.jm26.net
+    - title: Github
+      href: https://jmcrafter26.github.io/status
 i18n:
   footer: This page is [open-source]($REPO)
 
