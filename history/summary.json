@@ -90,24 +90,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "api.jm26.net",
-    "url": "https://api.jm26.net",
-    "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
-    "slug": "api-jm26-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 991,
-    "timeWeek": 1078,
-    "timeMonth": 1078,
-    "timeYear": 1078,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Badge API",
     "url": "https://api.jm26.net/badge/",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
