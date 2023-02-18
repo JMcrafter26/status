@@ -1,7 +1,7 @@
-url: https://api.jm26.net/badge/
+url: https://api.jm26.net/badge/?resizeoutput=true
 status: up
 code: 200
-responseTime: 1170
-lastUpdated: 2023-02-17T23:17:23.307Z
+responseTime: 802
+lastUpdated: 2023-02-18T14:10:04.132Z
 startTime: Fri Feb 10 2023 19:24:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
