@@ -5,17 +5,17 @@ repo: status # The name of this repository
 sites:
   - name: jm26.net
     url: https://jm26.net/status.txt
-  - name: test.jm26.net
+  - name: test.jm26.net 
     url: https://test.jm26.net/status.txt
-  - name: go.jm26.net
+  - name: go.jm26.net 
     url: https://go.jm26.net/status.txt
-  - name: files.jm26.net
+  - name: files.jm26.net 
     url: https://files.jm26.net/status.txt
-  - name: games.jm26.net
+  - name: games.jm26.net 
     url: https://games.jm26.net/status.txt
-  - name: api.jm26.net
+  - name: api.jm26.net 
     url: https://api.jm26.net/status.txt
-  - name: Badge API
+  - name: Badge API 
     url: https://api.jm26.net/badge/status.txt
 
 status-website:
@@ -33,6 +33,8 @@ status-website:
       href: https://jm26.net
     - title: API.JM26.NET
       href: https://api.jm26.net
+    - title: TEST.JM26.NET
+      href: test.jm26.net
     - title: Github
       href: https://jmcrafter26.github.io/status
 i18n:
