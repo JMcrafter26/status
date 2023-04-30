@@ -17,6 +17,8 @@ sites:
     url: https://api.jm26.net/status.txt
   - name: Badge API 
     url: https://api.jm26.net/badge/status.txt
+  - name: Experimental Server
+    uel: https://server.jm26.net/status.txt
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
