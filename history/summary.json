@@ -4,9 +4,9 @@
     "url": "https://jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/jm26.net.ico",
     "slug": "jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 408,
     "timeMonth": 428,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "test.jm26.net",
@@ -94,9 +96,9 @@
     "url": "https://api.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
     "slug": "api-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,16 +107,18 @@
     "timeWeek": 369,
     "timeMonth": 398,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "Badge API",
     "url": "https://api.jm26.net/badge/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
     "slug": "badge-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +127,9 @@
     "timeWeek": 147,
     "timeMonth": 135,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "Experimental Server",
