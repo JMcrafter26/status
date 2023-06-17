@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 402,
-    "timeWeek": 416,
-    "timeMonth": 430,
-    "timeYear": 478,
-    "dailyMinutesDown": {
-      "2023-06-17": 47
-    }
+    "time": 477,
+    "timeDay": 380,
+    "timeWeek": 408,
+    "timeMonth": 428,
+    "timeYear": 477,
+    "dailyMinutesDown": {}
   },
   {
     "name": "test.jm26.net",
@@ -30,13 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 387,
-    "timeWeek": 400,
-    "timeMonth": 428,
-    "timeYear": 747,
-    "dailyMinutesDown": {
-    }
+    "time": 746,
+    "timeDay": 384,
+    "timeWeek": 398,
+    "timeMonth": 426,
+    "timeYear": 746,
+    "dailyMinutesDown": {}
   },
   {
     "name": "go.jm26.net",
@@ -49,13 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 400,
-    "timeWeek": 408,
-    "timeMonth": 415,
-    "timeYear": 725,
-    "dailyMinutesDown": {
-    }
+    "time": 723,
+    "timeDay": 383,
+    "timeWeek": 402,
+    "timeMonth": 413,
+    "timeYear": 723,
+    "dailyMinutesDown": {}
   },
   {
     "name": "files.jm26.net",
@@ -68,13 +64,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 408,
-    "timeYear": 539,
-    "dailyMinutesDown": {
-    }
+    "time": 538,
+    "timeDay": 367,
+    "timeWeek": 381,
+    "timeMonth": 405,
+    "timeYear": 538,
+    "dailyMinutesDown": {}
   },
   {
     "name": "games.jm26.net",
@@ -87,13 +82,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 396,
-    "timeWeek": 391,
-    "timeMonth": 401,
-    "timeYear": 512,
-    "dailyMinutesDown": {
-    }
+    "time": 511,
+    "timeDay": 363,
+    "timeWeek": 380,
+    "timeMonth": 398,
+    "timeYear": 511,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.jm26.net",
@@ -106,13 +100,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 383,
-    "timeWeek": 375,
-    "timeMonth": 401,
-    "timeYear": 547,
-    "dailyMinutesDown": {
-    }
+    "time": 545,
+    "timeDay": 363,
+    "timeWeek": 369,
+    "timeMonth": 398,
+    "timeYear": 545,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Badge API",
@@ -125,13 +118,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 185,
-    "timeWeek": 133,
-    "timeMonth": 131,
-    "timeYear": 130,
-    "dailyMinutesDown": {
-    }
+    "time": 395,
+    "timeDay": 209,
+    "timeWeek": 147,
+    "timeMonth": 135,
+    "timeYear": 395,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Experimental Server",
@@ -145,9 +137,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.10%",
     "time": 571,
-    "timeDay": 711,
-    "timeWeek": 641,
-    "timeMonth": 580,
+    "timeDay": 659,
+    "timeWeek": 637,
+    "timeMonth": 581,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2023-06-10": 32,
