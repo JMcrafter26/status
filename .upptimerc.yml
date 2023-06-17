@@ -28,7 +28,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status-Page
-  introTitle: "Status of our services"
+  introTitle: "Status of our Services"
   introMessage:
   navbar:
     - title: JM26.NET
