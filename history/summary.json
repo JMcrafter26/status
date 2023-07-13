@@ -144,9 +144,9 @@
     "url": "https://server.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/server.jm26.net.ico",
     "slug": "experimental-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.39%",
@@ -156,6 +156,7 @@
     "timeMonth": 639,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-07-04": 20,
       "2023-06-10": 32,
       "2023-05-05": 595
