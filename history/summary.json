@@ -10,13 +10,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 737,
-    "timeDay": 416,
-    "timeWeek": 533,
-    "timeMonth": 1594,
-    "timeYear": 737,
+    "time": 735,
+    "timeDay": 457,
+    "timeWeek": 529,
+    "timeMonth": 1564,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2023-06-22": 76
+    }
+  },
+  {
+    "name": "games.jm26.net",
+    "url": "https://games.jm26.net/status.txt",
+    "icon": "https://icons.duckduckgo.com/ip3/games.jm26.net.ico",
+    "slug": "games-jm26-net",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.96%",
+    "time": 576,
+    "timeDay": 420,
+    "timeWeek": 501,
+    "timeMonth": 951,
+    "timeYear": 576,
+    "dailyMinutesDown": {
+      "2023-06-22": 73
     }
   },
   {
@@ -30,14 +50,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 821,
-    "timeDay": 444,
-    "timeWeek": 513,
-    "timeMonth": 1370,
-    "timeYear": 821,
+    "time": 819,
+    "timeDay": 441,
+    "timeWeek": 504,
+    "timeMonth": 1343,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2023-06-22": 75
     }
+  },
+  {
+    "name": "socials.jm26.net",
+    "url": "https://socials.jm26.net/status.txt",
+    "icon": "https://icons.duckduckgo.com/ip3/socials.jm26.net.ico",
+    "slug": "socials-jm26-net",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 416,
+    "timeDay": 416,
+    "timeWeek": 416,
+    "timeMonth": 416,
+    "timeYear": 416,
+    "dailyMinutesDown": {}
   },
   {
     "name": "go.jm26.net",
@@ -50,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 802,
-    "timeDay": 434,
-    "timeWeek": 519,
-    "timeMonth": 1382,
-    "timeYear": 802,
+    "time": 801,
+    "timeDay": 443,
+    "timeWeek": 511,
+    "timeMonth": 1355,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-06-22": 74
     }
@@ -70,33 +108,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 657,
-    "timeDay": 457,
-    "timeWeek": 522,
-    "timeMonth": 1388,
-    "timeYear": 657,
+    "time": 656,
+    "timeDay": 460,
+    "timeWeek": 515,
+    "timeMonth": 1362,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2023-06-22": 74
-    }
-  },
-  {
-    "name": "games.jm26.net",
-    "url": "https://games.jm26.net/status.txt",
-    "icon": "https://icons.duckduckgo.com/ip3/games.jm26.net.ico",
-    "slug": "games-jm26-net",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.96%",
-    "time": 577,
-    "timeDay": 402,
-    "timeWeek": 510,
-    "timeMonth": 967,
-    "timeYear": 577,
-    "dailyMinutesDown": {
-      "2023-06-22": 73
     }
   },
   {
@@ -110,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
-    "time": 615,
-    "timeDay": 417,
-    "timeWeek": 515,
-    "timeMonth": 956,
-    "timeYear": 615,
+    "time": 614,
+    "timeDay": 418,
+    "timeWeek": 503,
+    "timeMonth": 940,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2023-06-22": 72
     }
@@ -130,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
-    "time": 486,
-    "timeDay": 368,
-    "timeWeek": 453,
-    "timeMonth": 902,
-    "timeYear": 486,
+    "time": 485,
+    "timeDay": 374,
+    "timeWeek": 444,
+    "timeMonth": 886,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2023-06-22": 71
     }
@@ -150,11 +168,11 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.39%",
-    "time": 595,
-    "timeDay": 458,
-    "timeWeek": 584,
-    "timeMonth": 631,
-    "timeYear": 595,
+    "time": 596,
+    "timeDay": 576,
+    "timeWeek": 596,
+    "timeMonth": 633,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2023-07-13": 59,
       "2023-07-04": 20,
