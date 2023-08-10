@@ -1,7 +1,7 @@
 url: https://api.jm26.net/badge/status.txt
-status: up
-code: 200
-responseTime: 1531
-lastUpdated: 2023-08-10T22:57:06.413Z
+status: down
+code: 524
+responseTime: 15401
+lastUpdated: 2023-08-10T23:18:08.514Z
 startTime: Tue Feb 28 2023 21:54:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
