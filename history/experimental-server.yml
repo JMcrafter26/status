@@ -1,7 +1,7 @@
 url: https://server.jm26.net/status.txt
-status: down
-code: 523
-responseTime: 224
-lastUpdated: 2024-06-04T23:18:00.083Z
+status: up
+code: 200
+responseTime: 531
+lastUpdated: 2024-06-05T10:32:52.635Z
 startTime: 2023-04-30T11:21:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
