@@ -1,7 +1,7 @@
 url: https://go.jm26.net/status.txt
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-25T11:29:21.816Z
+status: up
+code: 200
+responseTime: 5181
+lastUpdated: 2025-01-25T11:45:33.282Z
 startTime: 2023-02-28T21:54:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
