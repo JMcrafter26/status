@@ -1,7 +1,7 @@
 url: https://files.jm26.net/status.txt
-status: down
-code: 403
-responseTime: 523
-lastUpdated: 2025-09-14T23:45:22.679Z
+status: up
+code: 200
+responseTime: 478
+lastUpdated: 2025-09-14T23:55:15.599Z
 startTime: 2023-02-28T21:54:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
