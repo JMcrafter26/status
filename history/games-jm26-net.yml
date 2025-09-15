@@ -1,7 +1,7 @@
 url: https://games.jm26.net/status.txt
-status: down
-code: 403
-responseTime: 609
-lastUpdated: 2025-09-15T20:29:36.641Z
+status: up
+code: 200
+responseTime: 574
+lastUpdated: 2025-09-15T20:41:54.309Z
 startTime: 2023-02-28T21:54:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
