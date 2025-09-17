@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.web1337.net): <!--live status--> **GitHub is lying, the site work**
+# [📈 Live Status](https://status.web1337.net): <!--live status--> **GitHub is lying, the site works**
 
 [![Uptime CI](https://github.com/JMcrafter26/status/workflows/Uptime%20CI/badge.svg)](https://github.com/JMcrafter26/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/JMcrafter26/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/JMcrafter26/status/actions?query=workflow%3A%22Response+Time+CI%22)
