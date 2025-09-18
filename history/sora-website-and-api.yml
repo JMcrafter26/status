@@ -1,7 +1,7 @@
 url: https://sora.jm26.net/status.txt
-status: down
-code: 403
-responseTime: 391
-lastUpdated: 2025-09-18T18:42:30.802Z
+status: up
+code: 200
+responseTime: 516
+lastUpdated: 2025-09-18T18:54:16.141Z
 startTime: 2025-04-24T12:38:08.617Z
 generator: Upptime <https://github.com/upptime/upptime>
