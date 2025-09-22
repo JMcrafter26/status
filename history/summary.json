@@ -6,17 +6,17 @@
     "slug": "jm26-net",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "85.73%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.45%",
     "time": 527,
-    "timeDay": 463,
+    "timeDay": 466,
     "timeWeek": 564,
     "timeMonth": 519,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 206,
       "2025-09-21": 428,
       "2025-09-20": 271,
       "2025-09-19": 266,
@@ -37,8 +37,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 47,
-      "2025-05-07": 23
+      "2025-05-11": 47
     }
   },
   {
@@ -48,17 +47,17 @@
     "slug": "games-jm26-net",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.45%",
     "time": 522,
-    "timeDay": 469,
+    "timeDay": 476,
     "timeWeek": 554,
     "timeMonth": 525,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 206,
       "2025-09-21": 428,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -79,8 +78,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 45,
-      "2025-05-07": 23
+      "2025-05-11": 45
     }
   },
   {
@@ -90,17 +88,17 @@
     "slug": "sora-website-and-api",
     "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "98.56%",
     "time": 538,
-    "timeDay": 454,
-    "timeWeek": 468,
+    "timeDay": 462,
+    "timeWeek": 470,
     "timeMonth": 471,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 207,
       "2025-09-21": 428,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -120,8 +118,7 @@
       "2025-09-03": 21,
       "2025-09-01": 23,
       "2025-08-27": 23,
-      "2025-08-23": 18,
-      "2025-07-07": 37
+      "2025-08-23": 18
     }
   },
   {
@@ -131,17 +128,17 @@
     "slug": "test-jm26-net",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.45%",
-    "time": 518,
-    "timeDay": 453,
+    "time": 519,
+    "timeDay": 454,
     "timeWeek": 508,
     "timeMonth": 487,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 207,
       "2025-09-21": 429,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -162,8 +159,7 @@
       "2025-09-01": 38,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 42,
-      "2025-05-07": 23
+      "2025-05-11": 42
     }
   },
   {
@@ -173,17 +169,17 @@
     "slug": "socials-jm26-net",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "85.71%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.44%",
     "time": 556,
-    "timeDay": 443,
-    "timeWeek": 451,
+    "timeDay": 442,
+    "timeWeek": 452,
     "timeMonth": 457,
-    "timeYear": 518,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 207,
       "2025-09-21": 429,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -204,8 +200,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 55,
-      "2025-05-07": 23
+      "2025-05-11": 55
     }
   },
   {
@@ -215,17 +210,17 @@
     "slug": "go-jm26-net",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "82.68%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.45%",
     "time": 501,
-    "timeDay": 453,
-    "timeWeek": 450,
+    "timeDay": 455,
+    "timeWeek": 451,
     "timeMonth": 454,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 207,
       "2025-09-21": 429,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -246,8 +241,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 41,
-      "2025-05-07": 23
+      "2025-05-11": 41
     }
   },
   {
@@ -257,17 +251,17 @@
     "slug": "files-jm26-net",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "82.74%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "82.68%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "99.46%",
     "time": 497,
-    "timeDay": 445,
-    "timeWeek": 442,
+    "timeDay": 446,
+    "timeWeek": 441,
     "timeMonth": 448,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-09-22": 184,
+      "2025-09-22": 207,
       "2025-09-21": 430,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -288,8 +282,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-06-06": 21,
-      "2025-05-11": 39
+      "2025-06-06": 21
     }
   },
   {
@@ -299,17 +292,17 @@
     "slug": "api-jm26-net",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "82.74%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "82.67%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.46%",
     "time": 504,
-    "timeDay": 440,
-    "timeWeek": 442,
+    "timeDay": 448,
+    "timeWeek": 444,
     "timeMonth": 447,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-09-22": 185,
+      "2025-09-22": 207,
       "2025-09-21": 430,
       "2025-09-20": 270,
       "2025-09-19": 267,
@@ -330,8 +323,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 30,
-      "2025-05-07": 23
+      "2025-05-11": 30
     }
   },
   {
@@ -341,17 +333,17 @@
     "slug": "badge-api",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.29%",
-    "uptimeWeek": "82.73%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "85.69%",
+    "uptimeWeek": "82.67%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.46%",
     "time": 168,
-    "timeDay": 235,
-    "timeWeek": 168,
-    "timeMonth": 159,
+    "timeDay": 234,
+    "timeWeek": 169,
+    "timeMonth": 160,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-09-22": 185,
+      "2025-09-22": 207,
       "2025-09-21": 431,
       "2025-09-20": 270,
       "2025-09-19": 267,
@@ -372,8 +364,7 @@
       "2025-09-01": 23,
       "2025-08-27": 23,
       "2025-08-23": 18,
-      "2025-05-11": 28,
-      "2025-05-07": 23
+      "2025-05-11": 28
     }
   },
   {
@@ -382,18 +373,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cufiy.net.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "86.29%",
-    "uptimeWeek": "82.73%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.18%",
+    "uptimeDay": "85.69%",
+    "uptimeWeek": "82.66%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.18%",
     "time": 387,
-    "timeDay": 456,
-    "timeWeek": 363,
+    "timeDay": 354,
+    "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-22": 185,
+      "2025-09-22": 207,
       "2025-09-21": 431,
       "2025-09-20": 270,
       "2025-09-19": 267,
@@ -413,8 +404,7 @@
       "2025-09-03": 21,
       "2025-09-01": 40,
       "2025-08-27": 23,
-      "2025-08-23": 18,
-      "2025-05-11": 35
+      "2025-08-23": 18
     }
   }
 ]
