@@ -1,7 +1,7 @@
 url: https://cufiy.net/status.txt
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2025-09-22T21:48:38.777Z
+status: down
+code: 403
+responseTime: 297
+lastUpdated: 2025-09-22T22:22:59.636Z
 startTime: 2025-01-25T18:08:36.755Z
 generator: Upptime <https://github.com/upptime/upptime>
