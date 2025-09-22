@@ -4,15 +4,15 @@
     "url": "https://jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/jm26.net.ico",
     "slug": "jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "86.45%",
+    "uptimeDay": "87.47%",
     "uptimeWeek": "82.67%",
     "uptimeMonth": "93.72%",
     "uptimeYear": "99.40%",
     "time": 526,
-    "timeDay": 450,
-    "timeWeek": 564,
+    "timeDay": 449,
+    "timeWeek": 563,
     "timeMonth": 520,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -40,8 +40,7 @@
       "2025-05-11": 47,
       "2025-05-07": 23,
       "2025-01-27": 18,
-      "2025-01-25": 300,
-      "2025-01-07": 25
+      "2025-01-25": 300
     }
   },
   {
@@ -49,17 +48,17 @@
     "url": "https://games.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/games.jm26.net.ico",
     "slug": "games-jm26-net",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "82.67%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "87.47%",
+    "uptimeWeek": "82.66%",
     "uptimeMonth": "93.71%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.45%",
     "time": 521,
-    "timeDay": 458,
-    "timeWeek": 555,
+    "timeDay": 456,
+    "timeWeek": 554,
     "timeMonth": 526,
-    "timeYear": 537,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2025-09-22": 130,
       "2025-09-21": 428,
@@ -85,7 +84,7 @@
       "2025-05-11": 45,
       "2025-05-07": 23,
       "2025-01-27": 18,
-      "2025-01-25": 230
+      "2025-01-25": 47
     }
   },
   {
@@ -93,17 +92,17 @@
     "url": "https://sora.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/sora.jm26.net.ico",
     "slug": "sora-website-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "86.45%",
+    "uptimeDay": "87.47%",
     "uptimeWeek": "82.66%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "98.55%",
-    "time": 540,
-    "timeDay": 437,
+    "time": 539,
+    "timeDay": 436,
     "timeWeek": 469,
-    "timeMonth": 471,
-    "timeYear": 540,
+    "timeMonth": 470,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-09-22": 130,
       "2025-09-21": 428,
@@ -136,16 +135,16 @@
     "url": "https://test.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/test.jm26.net.ico",
     "slug": "test-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "86.45%",
+    "uptimeDay": "87.46%",
     "uptimeWeek": "82.66%",
     "uptimeMonth": "93.68%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 518,
     "timeDay": 592,
     "timeWeek": 510,
-    "timeMonth": 489,
+    "timeMonth": 488,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2025-09-22": 130,
@@ -172,7 +171,7 @@
       "2025-05-11": 42,
       "2025-05-07": 23,
       "2025-01-27": 18,
-      "2025-01-25": 83
+      "2025-01-25": 62
     }
   },
   {
@@ -180,17 +179,17 @@
     "url": "https://socials.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/socials.jm26.net.ico",
     "slug": "socials-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "82.66%",
+    "uptimeDay": "87.46%",
+    "uptimeWeek": "82.65%",
     "uptimeMonth": "93.62%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 555,
-    "timeDay": 442,
-    "timeWeek": 453,
+    "timeDay": 439,
+    "timeWeek": 452,
     "timeMonth": 457,
-    "timeYear": 519,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2025-09-22": 130,
       "2025-09-21": 429,
@@ -216,7 +215,7 @@
       "2025-05-11": 55,
       "2025-05-07": 23,
       "2025-01-27": 18,
-      "2025-01-25": 80
+      "2025-01-25": 60
     }
   },
   {
@@ -224,19 +223,19 @@
     "url": "https://go.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/go.jm26.net.ico",
     "slug": "go-jm26-net",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "86.44%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "87.45%",
     "uptimeWeek": "82.65%",
     "uptimeMonth": "93.71%",
     "uptimeYear": "99.45%",
     "time": 501,
     "timeDay": 440,
-    "timeWeek": 452,
+    "timeWeek": 451,
     "timeMonth": 454,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-09-22": 130,
+      "2025-09-22": 131,
       "2025-09-21": 429,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -260,7 +259,7 @@
       "2025-05-11": 41,
       "2025-05-07": 23,
       "2025-01-27": 18,
-      "2025-01-25": 64
+      "2025-01-25": 46
     }
   },
   {
@@ -268,19 +267,19 @@
     "url": "https://files.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/files.jm26.net.ico",
     "slug": "files-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "82.65%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "82.64%",
     "uptimeMonth": "93.71%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 497,
-    "timeDay": 435,
+    "timeDay": 437,
     "timeWeek": 442,
     "timeMonth": 448,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-09-22": 130,
+      "2025-09-22": 131,
       "2025-09-21": 430,
       "2025-09-20": 271,
       "2025-09-19": 267,
@@ -304,8 +303,7 @@
       "2025-06-06": 21,
       "2025-05-11": 39,
       "2025-05-07": 23,
-      "2025-01-27": 18,
-      "2025-01-25": 37
+      "2025-01-27": 18
     }
   },
   {
@@ -313,10 +311,10 @@
     "url": "https://api.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
     "slug": "api-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "82.65%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "82.64%",
     "uptimeMonth": "93.71%",
     "uptimeYear": "99.44%",
     "time": 503,
@@ -325,7 +323,7 @@
     "timeMonth": 447,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-09-22": 130,
+      "2025-09-22": 131,
       "2025-09-21": 430,
       "2025-09-20": 270,
       "2025-09-19": 267,
@@ -349,7 +347,7 @@
       "2025-05-11": 30,
       "2025-05-07": 23,
       "2025-01-27": 18,
-      "2025-01-25": 131
+      "2025-01-25": 111
     }
   },
   {
@@ -357,19 +355,19 @@
     "url": "https://api.jm26.net/badge/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
     "slug": "badge-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "82.64%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "82.63%",
     "uptimeMonth": "93.70%",
     "uptimeYear": "99.24%",
-    "time": 167,
-    "timeDay": 239,
+    "time": 168,
+    "timeDay": 245,
     "timeWeek": 170,
-    "timeMonth": 159,
+    "timeMonth": 160,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-09-22": 130,
+      "2025-09-22": 131,
       "2025-09-21": 431,
       "2025-09-20": 270,
       "2025-09-19": 267,
@@ -393,8 +391,7 @@
       "2025-05-11": 28,
       "2025-05-07": 23,
       "2025-02-14": 694,
-      "2025-02-13": 491,
-      "2025-01-27": 18
+      "2025-02-13": 491
     }
   },
   {
@@ -402,19 +399,19 @@
     "url": "https://cufiy.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/cufiy.net.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "86.43%",
-    "uptimeWeek": "82.64%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "99.16%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "82.63%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "99.17%",
     "time": 387,
-    "timeDay": 456,
+    "timeDay": 454,
     "timeWeek": 363,
     "timeMonth": 362,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-22": 130,
+      "2025-09-22": 131,
       "2025-09-21": 431,
       "2025-09-20": 270,
       "2025-09-19": 267,
@@ -437,7 +434,7 @@
       "2025-08-23": 18,
       "2025-05-11": 35,
       "2025-05-07": 23,
-      "2025-02-14": 68
+      "2025-02-14": 51
     }
   }
 ]
