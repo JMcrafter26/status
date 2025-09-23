@@ -1,4 +1,7 @@
-# [📈 Live Status](https://status.web1337.net): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://status.web1337.net): <!--live status-->
+
+# The action script isn't working anymore. All services are still up and running.
+## For a real uptime monitor, check [here](https://stats.uptimerobot.com/mmq09T1ROV)
 
 [![Uptime CI](https://github.com/JMcrafter26/status/workflows/Uptime%20CI/badge.svg)](https://github.com/JMcrafter26/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/JMcrafter26/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/JMcrafter26/status/actions?query=workflow%3A%22Response+Time+CI%22)
