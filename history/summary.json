@@ -4,15 +4,15 @@
     "url": "https://jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/jm26.net.ico",
     "slug": "jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.90%",
+    "uptimeDay": "87.87%",
     "uptimeWeek": "83.00%",
-    "uptimeMonth": "93.46%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 528,
-    "timeDay": 473,
-    "timeWeek": 563,
+    "timeDay": 475,
+    "timeWeek": 562,
     "timeMonth": 518,
     "timeYear": 529,
     "dailyMinutesDown": {
@@ -36,8 +36,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -45,17 +44,17 @@
     "url": "https://games.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/games.jm26.net.ico",
     "slug": "games-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.89%",
-    "uptimeWeek": "83.00%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "87.86%",
+    "uptimeWeek": "82.99%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "99.46%",
     "time": 524,
     "timeDay": 498,
-    "timeWeek": 557,
+    "timeWeek": 556,
     "timeMonth": 525,
-    "timeYear": 536,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2025-09-23": 37,
       "2025-09-22": 206,
@@ -77,8 +76,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -86,14 +84,14 @@
     "url": "https://sora.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/sora.jm26.net.ico",
     "slug": "sora-website-and-api",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "87.89%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "87.86%",
     "uptimeWeek": "82.99%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "98.56%",
+    "uptimeMonth": "92.86%",
+    "uptimeYear": "98.57%",
     "time": 535,
-    "timeDay": 452,
+    "timeDay": 456,
     "timeWeek": 467,
     "timeMonth": 469,
     "timeYear": 535,
@@ -117,8 +115,7 @@
       "2025-09-07": 47,
       "2025-09-06": 18,
       "2025-09-03": 21,
-      "2025-09-01": 23,
-      "2025-08-27": 23
+      "2025-09-01": 23
     }
   },
   {
@@ -126,15 +123,15 @@
     "url": "https://test.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/test.jm26.net.ico",
     "slug": "test-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.89%",
+    "uptimeDay": "87.86%",
     "uptimeWeek": "82.99%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "99.46%",
     "time": 520,
-    "timeDay": 459,
-    "timeWeek": 507,
+    "timeDay": 461,
+    "timeWeek": 506,
     "timeMonth": 486,
     "timeYear": 505,
     "dailyMinutesDown": {
@@ -158,8 +155,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 38,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -167,15 +163,15 @@
     "url": "https://socials.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/socials.jm26.net.ico",
     "slug": "socials-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "87.88%",
-    "uptimeWeek": "82.99%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "87.85%",
+    "uptimeWeek": "82.98%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 556,
-    "timeDay": 447,
-    "timeWeek": 452,
+    "timeDay": 449,
+    "timeWeek": 451,
     "timeMonth": 456,
     "timeYear": 516,
     "dailyMinutesDown": {
@@ -199,8 +195,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -208,19 +203,19 @@
     "url": "https://go.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/go.jm26.net.ico",
     "slug": "go-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.88%",
+    "uptimeDay": "87.85%",
     "uptimeWeek": "82.98%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "99.46%",
     "time": 507,
-    "timeDay": 559,
+    "timeDay": 560,
     "timeWeek": 472,
-    "timeMonth": 464,
+    "timeMonth": 463,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2025-09-23": 37,
+      "2025-09-23": 38,
       "2025-09-22": 206,
       "2025-09-21": 429,
       "2025-09-20": 271,
@@ -240,8 +235,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -249,19 +243,19 @@
     "url": "https://files.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/files.jm26.net.ico",
     "slug": "files-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.88%",
+    "uptimeDay": "87.84%",
     "uptimeWeek": "82.98%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.46%",
     "time": 490,
-    "timeDay": 436,
+    "timeDay": 438,
     "timeWeek": 440,
     "timeMonth": 447,
-    "timeYear": 506,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-09-23": 37,
+      "2025-09-23": 38,
       "2025-09-22": 206,
       "2025-09-21": 430,
       "2025-09-20": 271,
@@ -281,8 +275,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -290,19 +283,19 @@
     "url": "https://api.jm26.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
     "slug": "api-jm26-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "82.98%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "87.84%",
+    "uptimeWeek": "82.97%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.46%",
     "time": 505,
-    "timeDay": 450,
+    "timeDay": 453,
     "timeWeek": 445,
     "timeMonth": 447,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-09-23": 37,
+      "2025-09-23": 38,
       "2025-09-22": 206,
       "2025-09-21": 430,
       "2025-09-20": 270,
@@ -322,8 +315,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -331,19 +323,19 @@
     "url": "https://api.jm26.net/badge/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/api.jm26.net.ico",
     "slug": "badge-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.87%",
+    "uptimeDay": "87.83%",
     "uptimeWeek": "82.97%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.46%",
     "time": 169,
-    "timeDay": 227,
+    "timeDay": 228,
     "timeWeek": 171,
     "timeMonth": 160,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-09-23": 37,
+      "2025-09-23": 38,
       "2025-09-22": 206,
       "2025-09-21": 431,
       "2025-09-20": 270,
@@ -363,8 +355,7 @@
       "2025-09-06": 18,
       "2025-09-03": 21,
       "2025-09-01": 23,
-      "2025-08-27": 23,
-      "2025-08-23": 18
+      "2025-08-27": 23
     }
   },
   {
@@ -372,19 +363,19 @@
     "url": "https://cufiy.net/status.txt",
     "icon": "https://icons.duckduckgo.com/ip3/cufiy.net.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "82.97%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.17%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "87.83%",
+    "uptimeWeek": "82.96%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "99.18%",
     "time": 386,
-    "timeDay": 350,
+    "timeDay": 353,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-09-23": 37,
+      "2025-09-23": 38,
       "2025-09-22": 206,
       "2025-09-21": 431,
       "2025-09-20": 270,
@@ -403,8 +394,7 @@
       "2025-09-07": 47,
       "2025-09-06": 18,
       "2025-09-03": 21,
-      "2025-09-01": 40,
-      "2025-08-27": 23
+      "2025-09-01": 40
     }
   }
 ]
