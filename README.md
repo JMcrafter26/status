@@ -1,7 +1,11 @@
 # [📈 Live Status](https://status.web1337.net): <!--live status-->
 
 # The action script isn't working anymore. All services are still up and running.
-## For a real uptime monitor, check [here](https://stats.uptimerobot.com/mmq09T1ROV)
+# For a working uptime monitor, check [here](https://stats.uptimerobot.com/mmq09T1ROV)
+
+<details>
+ <summary>Open previous stats (fake)</summary>
+
 
 [![Uptime CI](https://github.com/JMcrafter26/status/workflows/Uptime%20CI/badge.svg)](https://github.com/JMcrafter26/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/JMcrafter26/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/JMcrafter26/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -27,6 +31,8 @@
 | <img alt="" src="https://icons.duckduckgo.com/ip3/cufiy.net.ico" height="13"> [Portfolio](https://cufiy.net/status.txt) | 🟥 Down | [portfolio.yml](https://github.com/JMcrafter26/status/commits/HEAD/history/portfolio.yml) | <details><summary><img alt="Response time graph" src="./graphs/portfolio/response-time-week.png" height="20"> 363ms</summary><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="Response time 385" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fresponse-time.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="24-hour response time 354" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fresponse-time-day.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="7-day response time 363" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fresponse-time-week.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="30-day response time 362" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fresponse-time-month.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="1-year response time 385" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://JMcrafter26.github.io/status/history/portfolio">83.24%</a></summary><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="All-time uptime 99.18%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fuptime.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="24-hour uptime 87.56%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fuptime-day.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="7-day uptime 83.24%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fuptime-week.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="30-day uptime 93.47%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fuptime-month.json"></a><br><a href="https://JMcrafter26.github.io/status/history/portfolio"><img alt="1-year uptime 99.18%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJMcrafter26%2Fstatus%2FHEAD%2Fapi%2Fportfolio%2Fuptime-year.json"></a></details>
 
 <!--end: status pages-->
+
+</details>
 
 [**Visit our status website →**](https://status.web1337.net)
 
